@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "arkit-focusnode",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/maxxfrazer/ARKit-FocusNode.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "1a06d168301edbf457bf113d6fcb17740e1f5b8f"
+      }
+    },
+    {
+      "identity" : "arkit-smarthittest",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/maxxfrazer/ARKit-SmartHitTest",
+      "state" : {
+        "revision" : "2b7145d55ca273f1ec0328783f87e93b9473f9f5",
+        "version" : "2.0.0"
+      }
+    },
+    {
+      "identity" : "focusentity",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/maxxfrazer/FocusEntity",
+      "state" : {
+        "branch" : "main",
+        "revision" : "a3363f33321843d49352bd0e3d99e66a6560665c"
+      }
+    },
+    {
+      "identity" : "multipeerhelper",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:maxxfrazer/MultipeerHelper.git",
+      "state" : {
+        "revision" : "ea73ccdcbc34f967a5b7df10674eae7ea52aa803",
+        "version" : "1.4.0"
+      }
+    }
+  ],
+  "version" : 2
+}
